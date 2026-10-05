@@ -1,17 +1,17 @@
 {
   "name": "samriddhi",
   "tagline": "DevOps & Cloud Engineer in the making ",
-  "photo": "profile.png",
-  "roll": "4447",
-  "department": "Computer Engineering",
-  "year": "2020",
-  "email": "bhattsameer4447@gmail.com",
+  "photo": "profile.jpeg",
+  "roll": "24",
+  "department": "Computer Science",
+  "year": "2026",
+  "email": "samriddhidumre887@gmail.com",
   "gpa": "4.00",
   "about": "I automate things so I don't have to do them twice, then spend three hours debugging the automation. My pipelines are green, my coffee is strong, and \"it works on my machine\" is no longer an excuse, because I put my machine in a Docker container.",
   "skills": ["Linux", "Git", "GitHub Actions", "Docker", "Jenkins", "AWS", "CloudFormation", "Nginx", "React"],
   "links": {
-    "github": "https://github.com/Sammy4447",
-    "linkedin": "www.linkedin.com/in/er-sameer-bhatt-905562232"
+    "github": "https://github.com/samriddhi14-kg",
+    "linkedin": "www.linkedin.com/in/samriddhi-dumre"
   },
   "quotes": [
     "Stay hungry, stay foolish.",
